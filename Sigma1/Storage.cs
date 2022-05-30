@@ -20,6 +20,7 @@ namespace Sigma1
                 return productsInStock[i];
             }
         }
+        // метод діалогу має бути не в цьому класі. Тут достатньо мати метод, який вміє додавати до колекції товар.
         public void Dialogue()
         {
             while (true)
@@ -92,6 +93,7 @@ namespace Sigma1
                 }
             }
         }
+        // Метод мав би повертати колекцію шуканих об'єктів, а не друкувати інформацію про них. Це функція іншого класу.
         public void FindAllMeat()
         {
             int index = 0;
