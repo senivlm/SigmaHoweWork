@@ -62,9 +62,10 @@ namespace Sigma1
             return base.ToString() + $", MeatCategory: {MeatCategory}, MeatSpecies: {MeatSpecies}";
         }
         public override bool Equals(object meat)
-        {
+        {// Перед тим, як приводити до типу, треба перевіряти, чи це можливо зробити. Цей метод реалізовано неправильно
             return base.Equals(meat) && this.MeatCategory == ((Meat)meat).MeatCategory && this.MeatSpecies == ((Meat)meat).MeatSpecies;
         }
+        // Не створення цього коду дасть такий самий результат!
         public override int GetHashCode()
         {
             return base.GetHashCode();
