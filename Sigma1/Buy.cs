@@ -11,6 +11,7 @@ namespace Sigma1
         public int ProductsAmount { get => _productsAmount; private set => _productsAmount = value; }
         public int TotalPrice { get => _totalPrice; private set => _totalPrice = value; }
         public double TotalWeight { get => _totalWeight; private set => _totalWeight = value; }
+        // Краще цілі колекції не повертати і повністю їх інкапсульовувати в класі. Всі доступи реалізовувати через методи.
         public List<Product> AllProducts { get; private set; }
         public Buy(params Product[] products)
         {
@@ -54,10 +55,11 @@ namespace Sigma1
             {
                 return false;
             }
+            //Співпадіння повної ціни і ваги не гарантує однакового набору продуктів!
             return this.ProductsAmount == ((Buy)buy).ProductsAmount && this.TotalPrice == ((Buy)buy).TotalPrice && this.TotalWeight == ((Buy)buy).TotalWeight;
         }
         public override int GetHashCode()
-        {
+        {// Цікаво,чи розмієте обмеження генерації такого кешування
             return ProductsAmount.GetHashCode() ^ TotalPrice.GetHashCode() ^ TotalWeight.GetHashCode();
         }
     }
