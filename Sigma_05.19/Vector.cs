@@ -128,6 +128,7 @@ namespace Sigma_05._19
                 if (array[i] != array[array.Length - i - 1])
                 {
                     isPalidrome = false;
+                    // І треба перервати цикл, а не продовжувати його.
                 }
             }
             return isPalidrome;
@@ -136,7 +137,7 @@ namespace Sigma_05._19
         {
             int num;
             for (int i = 0; i < array.Length / 2; i++)
-            {
+            {// можна обмін через кортеджі
                 num = array[i];
                 array[i] = array[array.Length - i - 1];
                 array[array.Length - i - 1] = num;
@@ -191,7 +192,7 @@ namespace Sigma_05._19
                     break;
                 case SupportingElement.Middle:
                     if (leftBorder >= rightBorder)
-                    {
+                    {// Ділення у цьому випадку дає цілочисельний результат, тому приведення зайве.
                         supportingElement = array[(int)(rightBorder / 2)];
                     }
                     else
@@ -232,6 +233,7 @@ namespace Sigma_05._19
             {
                 QuickSort(leftBorder, rightPointer, supporting);
             }
+            // Навіщо двічі?
             if (leftPointer < rightBorder)
             {
                 QuickSort(leftPointer, rightBorder, supporting);
