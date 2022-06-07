@@ -365,7 +365,7 @@ namespace Sigma_05._19
             {
                 dataArray[i] = int.Parse(stringArray[i]);
             }
-
+//одночасно 2 куски завантажувати не можна. Трішки не зрозуміли ідею.
             List<int> firstPiece = new List<int>();
             List<int> secondPiece = new List<int>();
 
