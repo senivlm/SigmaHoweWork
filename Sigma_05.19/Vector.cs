@@ -1,7 +1,7 @@
 ﻿using System;
 
 namespace Sigma_05._19
-{
+{// швидке сортування добре реалізовано!
     public enum SupportingElement
     {
         First,
