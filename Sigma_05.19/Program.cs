@@ -3,7 +3,7 @@
 namespace Sigma_05._19
 {
     class Program
-    {
+    {//Ваш номер 9
         static void Main(string[] args)
         {
             Vector vector = new Vector(15);
