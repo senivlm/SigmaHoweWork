@@ -1,0 +1,14 @@
+Mutton 100 1 30 HighSort1 mutton
+kava 10 10
+qwr rqw w
+Mutton2 120 1 50 HighSort1 mutton
+fewg 30 40 gg
+deg grg 
+gerh
+kivi 60 1
+chicken 120 1 20 Sort2 chicken
+pork 150 1 60 HighSort1 pork
+veal 140 1 25 Sort2 veal
+Milk 25 1
+apple 20 1
+banana 40 1

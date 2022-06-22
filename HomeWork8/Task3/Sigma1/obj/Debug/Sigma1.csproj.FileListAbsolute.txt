@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\Sigma1\bin\Debug\Sigma1.exe.config
+C:\Users\User\source\repos\Sigma1\bin\Debug\Sigma1.exe
+C:\Users\User\source\repos\Sigma1\bin\Debug\Sigma1.pdb
+C:\Users\User\source\repos\Sigma1\obj\Debug\Sigma1.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Sigma1\obj\Debug\Sigma1.exe
+C:\Users\User\source\repos\Sigma1\obj\Debug\Sigma1.pdb
+C:\Users\User\source\repos\Sigma1\obj\Debug\Sigma1.csproj.AssemblyReference.cache

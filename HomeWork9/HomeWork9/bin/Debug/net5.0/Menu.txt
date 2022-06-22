@@ -1,0 +1,14 @@
+Dish1
+ingr1 100
+ingr2 200
+ingr3 300
+ingr4 400
+
+Dish2
+ingr2 150
+ingr4 200
+ingr5 100
+
+Dish3
+ingr5 300
+ingr6 200

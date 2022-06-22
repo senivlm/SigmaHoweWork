@@ -1,0 +1,5 @@
+Quartal: 2 Number of flats: 4
+Owner: Bosyj	Flat number: 1	Starting & ending electric meter: 10 - 15	Data: 4 June
+Owner: Boiko	Flat number: 2	Starting & ending electric meter: 13 - 15	Data: 2 June
+Owner: Mik	Flat number: 3	Starting & ending electric meter: 12 - 12	Data: 1 June
+Owner: Bosyj2	Flat number: 4	Starting & ending electric meter: 11 - 11	Data: 3 June

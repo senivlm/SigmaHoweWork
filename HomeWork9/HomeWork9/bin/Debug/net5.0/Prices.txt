@@ -1,0 +1,5 @@
+ingr1 500
+ingr2 260
+ingr3 300
+ingr4 470
+ingr5 1000
