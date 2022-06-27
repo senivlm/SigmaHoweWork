@@ -26,7 +26,7 @@ namespace HomeWork9
             _ingredients = new Dictionary<string, double>();
         }
         public Dish(Dictionary<string, double> ingrs) : this()
-        {
+        {// треба робити глибоку копію!!!!
             _ingredients = ingrs;
         }
 
