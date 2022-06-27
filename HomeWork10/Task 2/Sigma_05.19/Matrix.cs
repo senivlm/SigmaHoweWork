@@ -56,7 +56,7 @@ namespace Sigma_05._19
                 if (isUp)
                 {
                     for (; i >= 0 && j < size; j++, i--)
-                    {
+                    {//k і number можна сумістити.
                         _matrix[i, j] = number++;
                         k++;
                     }
@@ -65,8 +65,9 @@ namespace Sigma_05._19
                     {
                         i = 0;
                     }
+                    
                     if (j == size)
-                    {
+                    {//алгоритм закручений.
                         i += 2;
                         j--;
                     }
