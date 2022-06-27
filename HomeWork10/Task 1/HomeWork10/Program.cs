@@ -6,7 +6,7 @@ namespace HomeWork10
     class Program
     {
         static void Main(string[] args)
-        {
+        {// тест крутий!!!!)))))
             try
             {
                 Translator translator = new("text.txt", "dict.txt");
