@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\SigmaMarket\bin\Debug\net5.0\SigmaMarket.exe
+C:\Users\User\source\repos\SigmaMarket\bin\Debug\net5.0\SigmaMarket.deps.json
+C:\Users\User\source\repos\SigmaMarket\bin\Debug\net5.0\SigmaMarket.runtimeconfig.json
+C:\Users\User\source\repos\SigmaMarket\bin\Debug\net5.0\SigmaMarket.runtimeconfig.dev.json
+C:\Users\User\source\repos\SigmaMarket\bin\Debug\net5.0\SigmaMarket.dll
+C:\Users\User\source\repos\SigmaMarket\bin\Debug\net5.0\ref\SigmaMarket.dll
+C:\Users\User\source\repos\SigmaMarket\bin\Debug\net5.0\SigmaMarket.pdb
+C:\Users\User\source\repos\SigmaMarket\obj\Debug\net5.0\SigmaMarket.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\SigmaMarket\obj\Debug\net5.0\SigmaMarket.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\SigmaMarket\obj\Debug\net5.0\SigmaMarket.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\SigmaMarket\obj\Debug\net5.0\SigmaMarket.AssemblyInfo.cs
+C:\Users\User\source\repos\SigmaMarket\obj\Debug\net5.0\SigmaMarket.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\SigmaMarket\obj\Debug\net5.0\SigmaMarket.dll
+C:\Users\User\source\repos\SigmaMarket\obj\Debug\net5.0\ref\SigmaMarket.dll
+C:\Users\User\source\repos\SigmaMarket\obj\Debug\net5.0\SigmaMarket.pdb
+C:\Users\User\source\repos\SigmaMarket\obj\Debug\net5.0\SigmaMarket.genruntimeconfig.cache
