@@ -4,7 +4,7 @@ using System.Collections.Generic;
 namespace HomeWork10
 {
     class Translator
-    {
+     {// початкова пуктуація не збережеться
         private Dictionary<string, string> _vocabulary;
         private string _text;
         private string _pathToText;
@@ -22,14 +22,14 @@ namespace HomeWork10
             _pathToText = pathToText;
         }
         public Translator(Dictionary<string, string> vocabulary, string text, string pathToText, string parhToDict)
-        {
+        {// треба робити глибоку копію.
             this._vocabulary = vocabulary;
             this._text = text;
         }
 
 
         public void AddText(string text)
-        {
+        {//Краще використовувати StringBuilder
             _text += text;
         }
 
@@ -53,7 +53,7 @@ namespace HomeWork10
             string[] words = _text.Split(' ', '\r', '\n');
             string resultText = "";
             foreach (string item in words)
-            {
+            {//item не може бути пробілом) після 53 стрічки
                 if (item == "" || item == " ")
                 {
                     resultText += " ";
