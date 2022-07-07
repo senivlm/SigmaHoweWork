@@ -8,7 +8,7 @@ namespace SigmaMarket
         static void Main(string[] args)
         {
             try
-            {
+            {// Потрібно ще подію адаптувати до нашого сервісу зчитування з файлу. А це складніша проблема. Ви зараз її обійшли. А треба таки спробувати зробити це.
                 List<Goods> products = new() { new Product("p1", 2, 1), new Product("p2", 1, 1), new Meat("m3", 3, 3, 1, MeatCategory.Sort1, MeatSpecies.Mutton) };
                 Storage<Goods> storage = new Storage<Goods>(products);
                 AdminRoot.Dialogue(ref storage);
