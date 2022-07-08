@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\CalculatorHomeWork22\CalculatorHomeWork22\bin\Debug\net6.0\CalculatorHomeWork22.exe
+C:\Users\User\source\repos\CalculatorHomeWork22\CalculatorHomeWork22\bin\Debug\net6.0\CalculatorHomeWork22.deps.json
+C:\Users\User\source\repos\CalculatorHomeWork22\CalculatorHomeWork22\bin\Debug\net6.0\CalculatorHomeWork22.runtimeconfig.json
+C:\Users\User\source\repos\CalculatorHomeWork22\CalculatorHomeWork22\bin\Debug\net6.0\CalculatorHomeWork22.dll
+C:\Users\User\source\repos\CalculatorHomeWork22\CalculatorHomeWork22\bin\Debug\net6.0\CalculatorHomeWork22.pdb
+C:\Users\User\source\repos\CalculatorHomeWork22\CalculatorHomeWork22\obj\Debug\net6.0\CalculatorHomeWork22.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\CalculatorHomeWork22\CalculatorHomeWork22\obj\Debug\net6.0\CalculatorHomeWork22.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\CalculatorHomeWork22\CalculatorHomeWork22\obj\Debug\net6.0\CalculatorHomeWork22.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\CalculatorHomeWork22\CalculatorHomeWork22\obj\Debug\net6.0\CalculatorHomeWork22.AssemblyInfo.cs
+C:\Users\User\source\repos\CalculatorHomeWork22\CalculatorHomeWork22\obj\Debug\net6.0\CalculatorHomeWork22.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\CalculatorHomeWork22\CalculatorHomeWork22\obj\Debug\net6.0\CalculatorHomeWork22.dll
+C:\Users\User\source\repos\CalculatorHomeWork22\CalculatorHomeWork22\obj\Debug\net6.0\refint\CalculatorHomeWork22.dll
+C:\Users\User\source\repos\CalculatorHomeWork22\CalculatorHomeWork22\obj\Debug\net6.0\CalculatorHomeWork22.pdb
+C:\Users\User\source\repos\CalculatorHomeWork22\CalculatorHomeWork22\obj\Debug\net6.0\CalculatorHomeWork22.genruntimeconfig.cache
+C:\Users\User\source\repos\CalculatorHomeWork22\CalculatorHomeWork22\obj\Debug\net6.0\ref\CalculatorHomeWork22.dll
