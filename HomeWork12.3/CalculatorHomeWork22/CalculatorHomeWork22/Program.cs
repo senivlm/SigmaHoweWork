@@ -81,11 +81,11 @@
                 {
                     char op = c;
                     if (op == '-' && (i == 0 || (i > 1 && operationPriority.ContainsKey(infixExpr[i - 1]))))
-                    {
+                    {// чому?
                         op = '~';
                     }
                     while (stack.Count > 0 && (operationPriority[stack.Peek()] >= operationPriority[op]))
-                    {
+                    {// А розділювача не треба?
                         postfix += stack.Pop();
                     }
                     stack.Push(op);
@@ -97,6 +97,7 @@
             }
             return postfix;
         }
+        // покажіть цей синтаксичний цукор  групі!
         private double Execute(char op, double first, double second) => op switch
         {
             '+' => first + second,
@@ -115,7 +116,7 @@
             _ => 0
         };
         internal double Calculate()
-        {
+        {// Виймаючи зі стеку, треба перевіряти чи не порожній.
             Stack<double> locals = new();
 
             for (int i = 0; i < Postfix.Length; i++)
