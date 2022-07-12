@@ -3,7 +3,7 @@
     internal class Program
     {
         static void Main(string[] args)
-        {
+        {//Не повністю завдання
             try
             {
                 TimeCordinator time = new TimeCordinator();
