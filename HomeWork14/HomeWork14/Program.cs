@@ -26,6 +26,7 @@ namespace HomeWork14
             stream = new FileStream("serialize.txt", FileMode.Open, FileAccess.Read);
             Storage storage2 = formatter.Deserialize(stream) as Storage;
             stream.Close();
+            //Це тільки один вид серіалізації
 
         }
     }
